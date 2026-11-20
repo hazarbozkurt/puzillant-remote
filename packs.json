@@ -8,7 +8,8 @@
             "thumbnail": "thumbs/arabalar.png",
             "label": "pack:arabalar",
             "locked": true,
-            "sortOrder": 0
+            "sortOrder": 0,
+            "levelAccess": "first"
         }
     ]
 }
