@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "packs": [
+        {
+            "id": "arabalar",
+            "name": "Arabalar Paketi",
+            "description": "Arabalar temalı yeni bölümler.",
+            "thumbnail": "thumbs/arabalar.png",
+            "label": "pack:arabalar",
+            "locked": true,
+            "sortOrder": 0
+        }
+    ]
+}
