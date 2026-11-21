@@ -1,0 +1,40 @@
+{
+    "version": 2,
+    "packs": [
+        {
+            "id": "arabalar",
+            "name": "Arabalar",
+            "description": "Arabalar",
+            "thumbnail": "thumbs/arabalar.png",
+            "featuredImage": "",
+            "label": "pack-arabalar",
+            "locked": true,
+            "sortOrder": 0,
+            "levelAccess": "first",
+            "categories": [
+                "arabalar"
+            ],
+            "puzzleCount": 23,
+            "rating": 4.599999904632568,
+            "tier": "ads",
+            "featured": true,
+            "releaseOrder": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": "arabalar",
+            "name": "Arabalar",
+            "icon": "sparkle",
+            "image": "categories/arabalar.png",
+            "sortOrder": 0
+        }
+    ],
+    "featured": [
+        "arabalar"
+    ],
+    "recent": [
+        "arabalar"
+    ],
+    "catalog": "Android/catalog-78ab2385e8d7/catalog_1.0.bin"
+}
