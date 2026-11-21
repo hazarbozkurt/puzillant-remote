@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "packs": [
+        {
+            "id": "arabalar",
+            "name": "Arabalar",
+            "description": "Arabalar",
+            "thumbnail": "thumbs/arabalar.png",
+            "label": "pack-arabalar",
+            "locked": true,
+            "sortOrder": 0,
+            "levelAccess": "first"
+        }
+    ],
+    "catalog": "Android/catalog-3d86ed0027ad/catalog_1.0.bin"
+}
