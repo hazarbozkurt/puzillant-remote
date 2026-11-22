@@ -1,0 +1,23 @@
+{
+    "schema": 1,
+    "manifestVersion": 2,
+    "generatedAtUtc": "2026-11-22T08:45:15.9028947Z",
+    "entries": [
+        {
+            "manifestVersion": 1,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "arabalar",
+            "revision": 1,
+            "atUtc": "2026-11-22T08:45:14.1055234Z"
+        },
+        {
+            "manifestVersion": 2,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "flowers",
+            "revision": 1,
+            "atUtc": "2026-11-22T08:45:15.9028947Z"
+        }
+    ]
+}
