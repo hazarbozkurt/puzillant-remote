@@ -1,0 +1,261 @@
+{
+    "schema": 1,
+    "platformId": "Android",
+    "packId": "beach",
+    "revision": 1,
+    "version": "1.0",
+    "previousVersion": "",
+    "name": "Beach",
+    "description": "",
+    "categories": [
+        "kategori-1"
+    ],
+    "tier": "free",
+    "rating": 0.0,
+    "featured": true,
+    "sortOrder": 2,
+    "releaseOrder": 1,
+    "levelAccess": "first",
+    "minGameVersion": "",
+    "puzzleCount": 16,
+    "thumbnail": "thumbs/beach.png",
+    "featuredImage": "featured/beach.png",
+    "action": "publish",
+    "publishedAtUtc": "2026-11-23T12:51:35.4136082Z",
+    "catalog": {
+        "path": "Android/catalogs/beach/1/catalog_1.0.bin",
+        "sha256": "be779d907e772d53742255d8c66ad7dd900ccbc09af9644f67c73f6d6e4ba8c0",
+        "size": 16485,
+        "hashPath": "Android/catalogs/beach/1/catalog_1.0.hash",
+        "hashSha256": "4dc7fd8e89c3fe850275184218c7bd9ba930e7ea8274f5c1428facea25591e95",
+        "hashSize": 32
+    },
+    "bundles": [
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-001_c9552c7bfaaba277d4752257873902a1.bundle",
+            "size": 69299,
+            "sha256": "6379b92145895bec310d7db09908e11cd76819e6624b8fc353f56490fc29cb8d",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-002_b3d9fbddce186f4d1400991cef88c185.bundle",
+            "size": 164486,
+            "sha256": "c7eac010987ca0f760a14174f9f9a548ffff4446dc7bae1c6effc4aae925166c",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-003_a4549d69a18bbf68f98ae7b943940452.bundle",
+            "size": 145005,
+            "sha256": "64008df549d95f4961b5d3f6c655eb865cda3b43e46f5580d684f924ac3f5200",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-004_6a689972b9ea5b26ba1ca06fda5bfeac.bundle",
+            "size": 168232,
+            "sha256": "e938310d8c08838bf45e6d9ab157c91109e1097568dbaf779637a511ca7fb1d2",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-005_ba9ec4122b3f51615d9308cbd83c5d35.bundle",
+            "size": 134628,
+            "sha256": "dc5e51ff5ba70585aeed9a6149e7a1c889ec8d4805d94b2fbcf7377513e076f3",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-006_528162b53ac865890a4298d621162f6f.bundle",
+            "size": 112631,
+            "sha256": "3540f0a256c79c3aab79fbeba41a228c99e157aa791a02c6845fb0391d87793a",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-007_66aff85fd773bd2dd3999aa36673782a.bundle",
+            "size": 127447,
+            "sha256": "265a12a9debfb4cdb21bd6f5835876631f860d7b54d30f1728b07502cf9adc5d",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-008_6c33a167bd6752e293b25acd78b6e727.bundle",
+            "size": 103736,
+            "sha256": "44567f19e75a3fb736c72a6a15035232cebccd7559c238066a7d152d8e154081",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-009_781d877f418e76923dde47d75c6c6183.bundle",
+            "size": 104934,
+            "sha256": "f926bcea6c29918a5e5d234fc9d5ab3c77988047712b02e680cc570ae761d611",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-010_d213718d88162528643343135648a2e6.bundle",
+            "size": 121558,
+            "sha256": "74b8631d11a2da782af21edba9cd748c13e9aa47875c191acbd2e2cc242ff786",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-011_441285303f153f4deb36d2d652d2839f.bundle",
+            "size": 120872,
+            "sha256": "d95191bada1cb059b4ccdde7b82a52d44581dcfd0d2838b56b4d3c17888176d1",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-012_b370a5aab7ecdd54bf3b0130b7156c1f.bundle",
+            "size": 111682,
+            "sha256": "a5a4aadb64f8b2eca075e8bfd555b41b4d9771470f03f2f92211571ca1d21675",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-013_6b303124035e2cfd2036370a39ec7116.bundle",
+            "size": 112778,
+            "sha256": "7b2c2127a0c54d4d99bbff5fc5e2c6ac067c5a38755188cc0a901f64fbf689b6",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-014_8ec9156d34480f7745d3d9951b0be024.bundle",
+            "size": 98038,
+            "sha256": "45f57a4183153da7f6fa49b88c61c8430a6f4e71780982387bc06f4170be4f86",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-015_2a2d5467ae95f25b5626c4f36ef37b33.bundle",
+            "size": 142933,
+            "sha256": "0fe9572729b310303afa7be2d05dd77af99fe2dde99308fe8fb867b34dcdf428",
+            "dependencies": []
+        },
+        {
+            "file": "remote_pack_beach_assets_packs_beach_source-016_25ea1af35f8000f2964db94ed104b190.bundle",
+            "size": 100298,
+            "sha256": "a771dc8422cc4407dbcd53afc115931fdbe29a6cd2f8516df639a552a936cba3",
+            "dependencies": []
+        }
+    ],
+    "puzzles": [
+        {
+            "id": "source-001",
+            "address": "packs/beach/source-001",
+            "order": 1,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-002",
+            "address": "packs/beach/source-002",
+            "order": 2,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-003",
+            "address": "packs/beach/source-003",
+            "order": 3,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-004",
+            "address": "packs/beach/source-004",
+            "order": 4,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-005",
+            "address": "packs/beach/source-005",
+            "order": 5,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-006",
+            "address": "packs/beach/source-006",
+            "order": 6,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-007",
+            "address": "packs/beach/source-007",
+            "order": 7,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-008",
+            "address": "packs/beach/source-008",
+            "order": 8,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-009",
+            "address": "packs/beach/source-009",
+            "order": 9,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-010",
+            "address": "packs/beach/source-010",
+            "order": 10,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-011",
+            "address": "packs/beach/source-011",
+            "order": 11,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-012",
+            "address": "packs/beach/source-012",
+            "order": 12,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-013",
+            "address": "packs/beach/source-013",
+            "order": 13,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-014",
+            "address": "packs/beach/source-014",
+            "order": 14,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-015",
+            "address": "packs/beach/source-015",
+            "order": 15,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        },
+        {
+            "id": "source-016",
+            "address": "packs/beach/source-016",
+            "order": 16,
+            "bundle": "",
+            "width": 1408,
+            "height": 768
+        }
+    ]
+}
