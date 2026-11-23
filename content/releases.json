@@ -1,7 +1,7 @@
 {
     "schema": 1,
-    "manifestVersion": 2,
-    "generatedAtUtc": "2026-11-22T08:45:15.9028947Z",
+    "manifestVersion": 9,
+    "generatedAtUtc": "2026-11-23T12:51:35.5491004Z",
     "entries": [
         {
             "manifestVersion": 1,
@@ -18,6 +18,62 @@
             "packId": "flowers",
             "revision": 1,
             "atUtc": "2026-11-22T08:45:15.9028947Z"
+        },
+        {
+            "manifestVersion": 3,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "arabalar",
+            "revision": 2,
+            "atUtc": "2026-11-23T12:46:28.5389147Z"
+        },
+        {
+            "manifestVersion": 4,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "flowers",
+            "revision": 2,
+            "atUtc": "2026-11-23T12:46:31.2972706Z"
+        },
+        {
+            "manifestVersion": 5,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "arabalar",
+            "revision": 3,
+            "atUtc": "2026-11-23T12:49:25.7726957Z"
+        },
+        {
+            "manifestVersion": 6,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "flowers",
+            "revision": 3,
+            "atUtc": "2026-11-23T12:49:27.5193733Z"
+        },
+        {
+            "manifestVersion": 7,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "arabalar",
+            "revision": 4,
+            "atUtc": "2026-11-23T12:51:32.1736527Z"
+        },
+        {
+            "manifestVersion": 8,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "flowers",
+            "revision": 4,
+            "atUtc": "2026-11-23T12:51:33.9144298Z"
+        },
+        {
+            "manifestVersion": 9,
+            "action": "publish",
+            "platformId": "Android",
+            "packId": "beach",
+            "revision": 1,
+            "atUtc": "2026-11-23T12:51:35.5491004Z"
         }
     ]
 }
